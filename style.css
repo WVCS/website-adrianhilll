@@ -1,3 +1,9 @@
+h1 {
+  font-family: system-ui;
+  font-size: 70px; 
+  color: black;
+  text-align: center;
+}
 body {
   background-color: #E6B89C
 }
@@ -10,16 +16,12 @@ nav {
     left: 0;
     padding: 10px; 
 }
-      </nav>
-li{display: inline;
+
+li{
+  display: inline;
 padding: 8px; 
 }
-h1 {
-  font-family: system-ui;
-  font-size: 70px; 
-  color: black;
-  text-align: center;
-}
+
  <center>
 img {width: 25%
   border: dashed black 7px:

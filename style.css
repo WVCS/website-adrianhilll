@@ -1,6 +1,7 @@
 body {
   background-color: #E6B89C
-      nav {
+}
+nav {
     list-style-type: none; 
     position: fixed; 
     background-color: #D8CFAF;
@@ -9,7 +10,6 @@ body {
     left: 0;
     padding: 10px; 
 }
-  }
       </nav>
 li{display: inline;
 padding: 8px; 
